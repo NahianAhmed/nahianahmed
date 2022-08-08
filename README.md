@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Nahian Ahmed</h1>
 <h3 align="center">A Backend Java Developer</h3>
 
-- 🔭 I’m currently working with **Java, Spring**
+- 🔭 Currently working with **Java, Spring**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 Looking to collaborate on **Java**
 
 - 💬 Ask me about **Java, Spring**
 
-- 📫 How to reach me **nahianofficially@gmail.com**
+- 📫 Email me **nahianofficially@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
