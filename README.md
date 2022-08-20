@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nahian Ahmed</h1>
-<h3 align="center">A Backend Java Developer</h3>
+<h3 align="center">Backend Java Developer</h3>
 
 - 🔭 Currently working with **Java, Spring**
 
