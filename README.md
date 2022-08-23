@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Nahian Ahmed</h1>
-<h3 align="center">Backend Java Developer</h3>
+<h1 align="center">Hello World, I'm Nahian</h1>
+<h3 align="center">💙 to code in <img width="30" height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></h3>
 
-- 🔭 Currently working with **Java, Spring**
+- 🔭 Currently working with **Java, Spring, Microservice**
 
 - 👯 Looking to collaborate on **Java**
 
