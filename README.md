@@ -1,13 +1,15 @@
 <h1 align="center">Hello World, I'm Nahian</h1>
 <h3 align="center">💙 to code in <img width="30" height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></h3>
 
-- 🔭 Currently working with **Java, Spring, Microservice**
+- Currently working with **Java, Spring, Microservice**
 
-- 👯 Looking to collaborate on **Java**
+- Looking to collaborate on **Java**
 
-- 💬 Ask me about **Java, Spring**
+- Currently Learning **TypeScript and Angular**
 
-- 📫 Email me **nahianofficially@gmail.com**
+- Ask me about **Java, Spring**
+
+- Email me **nahianofficially@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
