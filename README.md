@@ -5,8 +5,6 @@
 
 - Looking to collaborate on **Java**
 
-- Currently Learning **TypeScript and Angular**
-
 - Ask me about **Java, Spring**
 
 - Email me **nahianofficially@gmail.com**
