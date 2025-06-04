@@ -1,10 +1,10 @@
 <h1 align="center">Hello World, I'm Nahian</h1>
 
-- A Backend Developer
+- A Software Engineer
 
 - Looking to collaborate on **Open source**
 
-- Love to code in **Java**
+- Love to code in **Java, Kotlin**
 
 - Email me **nahianofficially@gmail.com**
 
