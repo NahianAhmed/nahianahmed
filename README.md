@@ -2,7 +2,7 @@
 
 ## 🚀 Professional Profile
 
-Passionate software engineer with 3+ years of experience in building scalable applications using modern technologies. Looking to collaborate on **Open source** projects.
+Passionate software engineer with 4+ years of experience in building scalable applications using modern technologies. Looking to collaborate on **Open source** projects.
 
 📧 **Email:** nahianofficially@gmail.com
 
@@ -39,23 +39,10 @@ Passionate software engineer with 3+ years of experience in building scalable ap
 - Monolith Design Patterns
 - SOLID Principles
 
-## 🏢 Professional Experience
-
-### Software Engineer @ IdeaScale Bangladesh
-- Architected cloud-native microservices platform
-- Developed integrations with enterprise platforms
-- Served 4.5+ million users worldwide
-
-### Software Engineer @ Keiken System Co, Ltd
-- Delivered enterprise ERP solutions
-- Implemented secure authentication systems
-- Used Java 8, Spring Framework, JSP, MySQL
-
 ## 📚 Education
 
 **Bachelor of Science in Computer Science and Engineering**  
-Daffodil International University  
-CGPA: 3.88/4.00
+Daffodil International University
 
 ## 🌟 Interests
 - Learning new technologies
