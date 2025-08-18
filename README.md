@@ -1,6 +1,5 @@
 # Nahian Ahmed - Software Engineer
 
-## 🚀 Professional Profile
 
 Passionate software engineer with 4+ years of experience in building scalable applications using modern technologies. Looking to collaborate on **Open source** projects.
 
