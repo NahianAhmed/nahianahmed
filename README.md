@@ -10,33 +10,29 @@ Passionate software engineer with 4+ years of experience in building scalable ap
 ### Languages
 - Java
 - Kotlin
+- SQL
 - TypeScript
 
 ### Frameworks & Technologies
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Spring Security
+- Spring
 - Micronaut
-- Node.js
-- Query DSL
+- gRPC
+- LangChain4j
+- JPA, JOOQ, JDBC
+- Kafka
+- Elasticsearch
+- JWT, OAuth2.0 and OAuth2.1
 
 ### DevOps & Tools
 - Docker
 - Kubernetes
 - Helm
-- Apache Kafka
-- JWT
+- Git, GitHub Action
 
 ### Databases
 - MySQL
+- Postgres, PG vector
 - Redis
-- Elasticsearch
-
-### Architecture & Patterns
-- Microservices
-- Monolith Design Patterns
-- SOLID Principles
 
 ## 📚 Education
 
