@@ -10,7 +10,6 @@ Passionate software engineer with 4+ years of experience in building scalable ap
 ### Languages
 - Java
 - Kotlin
-- SQL
 - TypeScript
 
 ### Frameworks & Technologies
